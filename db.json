@@ -5,5 +5,18 @@
             "id":"",
             "status":false
         }
+    ],
+    "jobposition":[
+        {
+            "company": "Ellette",
+            "postedAt": "2021-03-30",
+            "city": "Gangtok",
+            "location": "American Samoa",
+            "role": "Frontend",
+            "level": "Junior",
+            "contract": "Full Time",
+            "position": " Backend Developer",
+            "language": "Java"
+        }
     ]
 }
